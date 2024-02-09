@@ -1,0 +1,14 @@
+UNIT-I
+Computer Fundamentals: Generations of Computers, Definition, Block Diagram along with its components, characteristics & classification of computers, Limitations of Computers, Applications of computers in various Fields.
+
+UNIT- II
+Data Representation: Number systems and character representation, binary arithmetic, definition of software, types of software, operating systems as user interface, utility programs.
+
+UNIT-III
+Devices: Input-Output Devices (with connections and practical demo), memory, primary, secondary, auxiliary memory, RAM, ROM, cache memory, hard disk, optical disk. 
+
+UNIT-IV
+Computer Organization and Architecture: CPU, registers, system bus, main memory unit(MMU),cache memory, inside a computer, SMPS, motherboard, ports and interfaces, expansion code, ribbon cables, memory chips, processors, overview of emerging technology
+
+UNIT-V 
+Use of Computers in Education and Research: Data analysis, heterogeneous storage, e-Library, Google scholar, Domain specific packages such as SPSS, Mathematica etc.
